@@ -10,13 +10,13 @@ This repository contain two files
   + a brief description of the repository
   + the type of license (MIT) of the repository
 2. hello.js 
-## Code de hello.js de tyepe `code JS`
+## Code de hello.js de tyepe `code JS`  
 
   var message = "Hello!";
   alert(message);
   alert("Bonjour!");
   alert("coucou!!!");
-  alert("bonsoir");
+  alert("bonsoir");  
   
 # The MIT License (MIT)
 
