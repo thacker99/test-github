@@ -12,11 +12,11 @@ This repository contain two files
 2. hello.js 
 ## Code de hello.js de tyepe `code JS`  
 
-    var message = "Hello!";
-    alert(message);
-    alert("Bonjour!");
-    alert("coucou!!!");
-    alert("bonsoir");  
+  var message = "Hello!";
+  alert(message);
+  alert("Bonjour!");
+  alert("coucou!!!");
+  alert("bonsoir");  
     
 # The MIT License (MIT)
 
